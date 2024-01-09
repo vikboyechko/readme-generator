@@ -4,6 +4,8 @@
 
 This is a Node.js app using Inquirer that enables developers to quickly generate a README.md file with a series of questions.
 
+[See video demo of project](https://watch.screencastify.com/v/NWgVjmlRHNDq0aowmyBf)
+
 ## Challenges
 
 I wanted to challenge myself, so I made the app dynamically generate the title, license badge and link, table of contents, and individual sections, based on the Inquirer inputs. If nothing is input, that section doesn't appear on the README. The README file uses the project title to generate a unique filename, so you can use it repeatedly for different projects without overwriting one file.
