@@ -10,4 +10,4 @@ I wanted to challenge myself, so I made the app dynamically generate the title, 
 
 ## Installation Instructions
 
-Fork repo, install Node.js, install Inquirer using 'npm i inquirer@8.4.2', and then run the project using the command 'node index.js'.
+Fork repo, install Node.js, install Inquirer using 'npm i inquirer@8.2.4', and then run the project using the command 'node index.js'.
