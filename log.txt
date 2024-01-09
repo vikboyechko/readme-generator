@@ -1,21 +1,22 @@
 
     # a
 
-    function renderLicenseSection(license) {}
+    ## License<br>![Static Badge]https://img.shields.io/badge/License-Apache_License_2.0-blue
+<br>This project is licensed under [Apache License 2.0](https://opensource.org/license/apache-2-0/)
 
     ## Project Description
-    dfasdf
+    d
 
     ## Table of Contents
 
     ## Installation Instructions
-    awer
+    d
 
     ## Usage Instructions
-    afsd
+    f
 
     ## Contribution Instructions
-    wqer
+    s
 
     ## Testing Instructions
     undefined
